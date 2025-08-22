@@ -49,11 +49,19 @@ Antes de considerar uma tarefa concluída, é essencial revisar toda a implement
 
 - [ ]  *Definir conforme a necessidade da tarefa.*
 
+## Testes Manuais
+
+- [ ]  Fluxo principal (core da funcionalidade)
+- [ ]  Fluxos alternativos
+- [ ]  Casos extremos
+- [ ]  Tratamento de erros
+
 ## Finalização
 
 - [ ]  Revisar.
 - [ ]  Buildar.
 - [ ]  Gerar migrations caso tenha sido feito alterações na estrutura do banco ou adição de novas permissões.
 - [ ]  Atualizar branch main e fazer merge com a branch da tarefa.
+- [ ]  Fazer um supabase migration up caso no merge tenha vindo novas migrations.
 - [ ]  Abrir pull request.
 ```
