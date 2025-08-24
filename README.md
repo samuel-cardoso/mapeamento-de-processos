@@ -20,6 +20,10 @@ Aqui acontece o desenvolvimento real do código, implementando uma funcionalidad
 
 Depois de implementar as mudanças, é essencial refinar o código para garantir clareza, organização e eficiência. Isso pode ser feito por meio da refatoração, tornando o código mais limpo e otimizado, além de ajustes baseados no feedback da equipe. Também é importante realizar testes manuais e automatizados para evitar erros antes da revisão final.
 
+## Testes Manuais
+
+Antes de finalizar, é importantíssimo que seja testado por completo toda a solução proposta na tarefa.
+
 ## Finalização
 
 Antes de considerar uma tarefa concluída, é essencial revisar toda a implementação e validar as mudanças. Isso inclui revisar o código para garantir qualidade, buildar e testar a aplicação, e abrir um pull request para a revisão da equipe.
